@@ -1,0 +1,13 @@
+REM Author: N4ga322
+REM Date: 15/02/2024
+REM Description: Rickroll prank on BadUSB to run from Flipper Zero
+REM **Consider the device language**
+
+DELAY 1000
+GUI r
+DELAY 200
+STRING powershell Start-Process "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+ENTER
+DELAY 200
+STRING javascript:document.querySelector('video').click();
+ENTER
