@@ -1,6 +1,7 @@
 REM Author: N4ga322
 REM Date: 15/02/2024
 REM Description: Rickroll prank on BadUSB to run from Flipper Zero
+REM Learning from him " https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB "
 REM **Consider the device language**
 
 DELAY 1000
